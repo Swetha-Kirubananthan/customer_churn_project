@@ -1,0 +1,17 @@
+# Virtual environment
+venv/
+.env
+
+# OS files
+__pycache__/
+*.pyc
+.DS_Store
+
+# Model files (optional)
+*.pkl
+
+# Jupyter notebook checkpoints
+.ipynb_checkpoints/
+
+# Outputs
+outputs/
